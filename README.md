@@ -11,3 +11,6 @@ Which return information of all users of the workspace and saves this data into 
 > /send_message
 
 Uses information from previously retrieved data to send message to a specific user
+
+
+To test this project we need to set the necessary keys for our app in the .env file and start <b>main.py</b>.
